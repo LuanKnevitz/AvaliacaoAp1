@@ -1,14 +1,17 @@
-Git init- Criar um repositório local
+Git init- Criar um repositï¿½rio local
 Git touch- Criar um arquivo de texto
 Git add . - Adicionar os arquivos que vou mandar
-Git status - Conferir o que está acontecendo no bash
-Git commit -m"" - Descrição e fechamento do pacote que será enviado
-Git push --set-upstream origin master - Envia as alterações para o repositório remoto
+Git status - Conferir o que estï¿½ acontecendo no bash
+Git commit -m"" - Descriï¿½ï¿½o e fechamento do pacote que serï¿½ enviado
+Git push --set-upstream origin master - Envia as alteraï¿½ï¿½es para o repositï¿½rio remoto
 
 
 Git touch -
 Git add ap1-1.txt - Adiciona o novo arquivo criado
 Git status -
-Git commit -m"Segundo envio ap1"- Descrição e fechamento do segundo arquivo
-Git push - Enviar para o repositório remoto
+Git commit -m"Segundo envio ap1"- Descriï¿½ï¿½o e fechamento do segundo arquivo
+Git push - Enviar para o repositorio remoto
 
+AlteraÃ§Ãµes 15
+
+AlteraÃ§Ãµes 17
