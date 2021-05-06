@@ -10,8 +10,18 @@ Git touch -
 Git add ap1-1.txt - Adiciona o novo arquivo criado
 Git status -
 Git commit -m"Segundo envio ap1"- Descri��o e fechamento do segundo arquivo
+<<<<<<< HEAD
 Git push - Enviar para o repositorio remoto
 
 Alterações 15
 
 Alterações 17
+=======
+Git push - Enviar para o reposit�rio remoto
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Fusce at consectetur lacus. Pellentesque sit amet dolor suscipit, feugiat mi non, fringilla eros. 
+ Etiam et odio vulputate, pretium nibh sed, auctor nisi. Fusce sed mattis lorem. Etiam laoreet odio eu diam mattis, sed convallis diam scelerisque. Proin a elementum tortor. Proin bibendum sollicitudin mi at faucibus. In hac habitasse platea dictumst. Quisque tempor quam id varius euismod.
+ Donec et semper nisl, et aliquam odio.
+  Integer eleifend non metus et rhoncus.
+>>>>>>> feature_2
